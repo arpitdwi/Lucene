@@ -6,3 +6,5 @@ To run Lucene for REAT (https://arxiv.org/abs/1809.04276)
 5) Finally to combine all of them into a single txt file which is then used as the ref document run final_combiner.ipynb
 
 Refer to sample file paths to get an understanding of the file formats.  
+The codes have been taken from :- https://lucene.apache.org/core/9_4_1/demo/index.html
+I’m using JDK 17.0.3.1 and Lucene 9.4.1
